@@ -1,5 +1,4 @@
 // Paradeigma 6
-// Diskoli
 
 #include <iostream>
 using namespace std;
