@@ -1,4 +1,4 @@
-// Pradeigma 4
+// Paradeigma 4
 
 #include <iostream>
 using namespace std;
