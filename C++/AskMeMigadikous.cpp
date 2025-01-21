@@ -1,4 +1,4 @@
-/* Kanw dio migadikous sthn main (double) kai ftiaxnw kai 3o migadiko */
+/* Athroisma 2 migadikwn arithmwn */
 
 #include <iostream>
 using namespace std;
@@ -24,7 +24,7 @@ Migas::~Migas(){}
 Migas Migas::operator+(Migas M2)
 {
 	Migas migadikos;
-	migadikos.x= this->x + M2.x; //Des kai enallaktiko tropo me deikti
+	migadikos.x= this->x + M2.x; 
 	migadikos.y= this->y + M2.y;
 	return migadikos;
 }
