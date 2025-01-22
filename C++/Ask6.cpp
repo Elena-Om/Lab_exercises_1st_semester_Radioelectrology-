@@ -39,6 +39,7 @@ Multifaceted::Multifaceted()
 {
 	//cout << "DIMIOURGIA POLIPLEUROU" << endl; 
 	pleures=0;
+	mikos=NULL;
 }
 
 Multifaceted::~Multifaceted()
